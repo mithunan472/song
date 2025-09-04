@@ -1,0 +1,100 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "Arabic kuthu",
+      "singer": "Anirudh ravichandar",
+      "genre": "Romantic",
+      "imgUrl": "https://share.google/images/mvBPXLEy3kWYTIBoS",
+      "songUrl": "Songs/arabic kuthu.mp3"
+    },
+    {
+      "id": 2,
+      "title": "sottu sotta",
+      "singer": "teejay",
+      "genre": "Romantic",
+      "imgUrl": "https://share.google/images/n0fIRxz5Ks6SN5aSV",
+      "songUrl": "Songs/sottu sotta.mp3"
+    },
+    {
+      "id": 3,
+      "title": "kathaley",
+      "singer": "agaram",
+      "genre": "Romantic",
+      "imgUrl": "https://pixabay.com/photos/tulips-flowers-field-tulip-farm-1405413/",
+      "songUrl": "Songs/kathaley.mp3"
+    },
+    {
+      "id": 4,
+      "title": "hip andre",
+      "singer": "agaram",
+      "genre": "Emotional",
+      "imgUrl": "https://share.google/images/1IBA2Ak51Kn0rFtgr",
+      "songUrl": "Songs/hip andre.mp3"
+    },
+    {
+      "id": 5,
+      "title": "asaigal",
+      "singer": "agaram",
+      "genre": "Emotional",
+      "imgUrl": "https://share.google/images/4pvJjAh3sgpdZWNgX",
+      "songUrl": "Songs/asaigal.mp3"
+    },
+    {
+      "id": 6,
+      "title": "enna venum",
+      "singer": "agaram",
+      "genre": "Emotional",
+      "imgUrl": "https://share.google/images/4pvJjAh3sgpdZWNgX",
+      "songUrl": "Songs/enna venum.mp3"
+    },
+    {
+      "id": 7,
+      "title": "why this kolaveri",
+      "singer": "Anirudh ravichandar",
+      "genre": "Emotional",
+      "imgUrl": "https://pixabay.com/photos/tulips-flowers-field-tulip-farm-1405413/",
+      "songUrl": "Songs/why this kolaveri.mp3"
+    }
+  ],
+  "favorities": [
+    {
+      "itemId": 4,
+      "title": "hip andre",
+      "imgUrl": "https://share.google/images/1IBA2Ak51Kn0rFtgr",
+      "genre": "Emotional",
+      "songUrl": "Songs/hip andre.mp3",
+      "singer": "agaram",
+      "id": 6
+    }
+  ],
+  "playlist": [
+    {
+      "itemId": 6,
+      "title": "enna venum",
+      "imgUrl": "https://share.google/images/4pvJjAh3sgpdZWNgX",
+      "genre": "Emotional",
+      "songUrl": "Songs/enna venum.mp3",
+      "singer": "agaram",
+      "id": 4
+    },
+    {
+      "itemId": 4,
+      "title": "hip andre",
+      "imgUrl": "https://share.google/images/1IBA2Ak51Kn0rFtgr",
+      "genre": "Emotional",
+      "songUrl": "Songs/hip andre.mp3",
+      "singer": "agaram",
+      "id": 6
+    },
+    {
+      "itemId": 2,
+      "title": "sottu sotta",
+      "imgUrl": "https://share.google/images/n0fIRxz5Ks6SN5aSV",
+      "genre": "Romantic",
+      "songUrl": "Songs/sottu sotta.mp3",
+      "singer": "teejay",
+      "id": 7
+    }
+  ]
+}
